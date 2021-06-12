@@ -1,9 +1,9 @@
 <h1>Hi 👋, I'm Achraf OUAHAB</h1>
-<h3>A passionate mobile developer from Algeria, and Software Engineer Student</h3>
+<h3> Artificial Intelligence Passionate </h3>
+<h3>Computer Science Student</h3>
+- 🧑‍💻 Looking for a team to enter AI competitions
 
-- 🧑‍💻 I’m looking to collaborate on open source projects
-
-- 💬 Ask me about [Python](https://www.python.org/) 
+- 💬 Ask me about [Python] (https://www.python.org/) 
 
 - 📫 How to reach me **ouahabachraf99@gmail.com**
 
