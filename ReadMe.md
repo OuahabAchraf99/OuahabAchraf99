@@ -13,5 +13,6 @@
 
 ### Github Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=OuahabAchraf99&show_icons=true&locale=en" alt="OuahabAchraf99" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=OuahabAchraf99&show_icons=true&locale=en" alt="OuahabAchraf99" /></p> -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OuahabAchraf99)](https://github.com/anuraghazra/github-readme-stats)
 
