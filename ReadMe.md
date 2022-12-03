@@ -17,5 +17,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OuahabAchraf99&hide_langs_below=6&layout=compact" alt="Achraf's language stats"/>
 </a>
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=OuahabAchraf99&show_icons=true&locale=en" alt="OuahabAchraf99" /></p> -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OuahabAchraf99)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OuahabAchraf99)](https://github.com/anuraghazra/github-readme-stats) -->
 
