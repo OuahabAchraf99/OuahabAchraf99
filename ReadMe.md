@@ -14,7 +14,7 @@
 ### Github Stats
 <a href="https://profile-summary-for-github.com/user/OuahabAchraf99">
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=OuahabAchraf99&show_icons=true&line_height=26&count_private=true&include_all_commits=true" alt="Achraf's GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OuahabAchraf99&hide_langs_below=6&layout=compact" alt="Achraf's language stats"/>
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OuahabAchraf99&hide_langs_below=6&layout=compact" alt="Achraf's language stats"/> -->
 </a>
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=OuahabAchraf99&show_icons=true&locale=en" alt="OuahabAchraf99" /></p> -->
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OuahabAchraf99)](https://github.com/anuraghazra/github-readme-stats) -->
