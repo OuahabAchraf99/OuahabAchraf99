@@ -1,9 +1,5 @@
 <h1>Hi 👋, I'm Achraf OUAHAB</h1>
 <h2>  Software Engineer </h2>
-<h4>Artificial Intelligence Passionate</h4>
-- 🧑‍💻 Looking for Software Engineer Position
-
-<!-- - 💬 Ask me about [Python] (https://www.python.org/)  -->
 
 - 📫 How to reach me **ouahabachraf99@gmail.com**
 
